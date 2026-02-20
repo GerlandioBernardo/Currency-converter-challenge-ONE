@@ -3,7 +3,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto é parte do **Tech Foundation - Fase de Especialização em Java** do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O desafio consiste em desenvolver um conversor de moedas utilizando conceitos de **Programação Orientada a Objetos (POO)** em Java.
+Este projeto é parte do **Tech Foundation - Especialização Back-End em Java** do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O desafio consiste em desenvolver um conversor de moedas utilizando conceitos de **Programação Orientada a Objetos (POO)** em Java.
 
 
 ## 🎯 Funcionalidades
@@ -85,4 +85,4 @@ Escolha uma opção válida:
 - **HttpURLConnection**: Para requisições HTTP
 
 
-⭐ **Oracle Next Education + Alura** | Tech Foundation - Especialização em Java
+⭐ **Oracle Next Education + Alura** | Tech Foundation - Especialização Back-End em Java
