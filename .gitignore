@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Arquivos com secrets - NUNCA COMMITAR!
+.env
+.env.local
+config.properties
+*.key
+credentials.json
+
+# Build
+out/
+target/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
